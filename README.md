@@ -4,7 +4,7 @@
 
 **Basic Description:**
 
-This program utilizes the Spotipy Python library to generate a playlist of 100 songs based off of the users top artists. 
+This program utilizes the Spotipy Python library to generate a playlist of 100 songs based off of the users top artists in Spotify. 
 Everytime the program is run a new playlist is generated.
 
 **Files:**
